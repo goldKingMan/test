@@ -1,4 +1,4 @@
 import time
 
 if __name__ == '__main__':
-    time.sleep(1600)
+    time.sleep(1800)
